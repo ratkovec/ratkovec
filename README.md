@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratkovec
 - 👀 I’m interested in programming and web design
-- 🌱 I’m currently relearning python and javascript
+- 🌱 I’m currently relearning python, javascript, and java
 - 📫 How to reach me: phone - 402.992.3480
 
 <!---
